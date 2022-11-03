@@ -1,0 +1,7 @@
+n=str(input())
+m=int(n[0])
+l=int(n[1])
+g=int(n[2])
+h=int(n[3])
+k=int(n[4])
+print(l+m+k+h+g)
